@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F38EB431CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB3D1CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.h */; };
+		3F38EB431CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB3D1CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F38EB441CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F38EB3E1CCA6B9B006CF8D4 /* MMPReactiveCoreLocation.m */; };
-		3F38EB451CCA6B9B006CF8D4 /* MMPRegionEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB3F1CCA6B9B006CF8D4 /* MMPRegionEvent.h */; };
+		3F38EB451CCA6B9B006CF8D4 /* MMPRegionEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB3F1CCA6B9B006CF8D4 /* MMPRegionEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F38EB461CCA6B9B006CF8D4 /* MMPRegionEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F38EB401CCA6B9B006CF8D4 /* MMPRegionEvent.m */; };
-		3F38EB471CCA6B9B006CF8D4 /* MMPResourceTracker.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB411CCA6B9B006CF8D4 /* MMPResourceTracker.h */; };
+		3F38EB471CCA6B9B006CF8D4 /* MMPResourceTracker.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F38EB411CCA6B9B006CF8D4 /* MMPResourceTracker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3F38EB481CCA6B9B006CF8D4 /* MMPResourceTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F38EB421CCA6B9B006CF8D4 /* MMPResourceTracker.m */; };
 		3F38EB4B1CCA6CBB006CF8D4 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F38EB4A1CCA6CBB006CF8D4 /* CoreLocation.framework */; };
 		3F38EB4D1CCA6CDB006CF8D4 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F38EB4C1CCA6CDB006CF8D4 /* ReactiveCocoa.framework */; };
